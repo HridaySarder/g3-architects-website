@@ -105,7 +105,8 @@ font-weight: 400;
 }
 
 @media screen and (max-width:576px) {
-  header , .teams-content{
+  header, 
+  .teams-content{
     padding: 20px;
   }
   nav , .teams-container {
